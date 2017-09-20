@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jaarac/doctorado/workspace/2014/vrl/vrl/lib/vlfeat'
+let g:netrw_dirhist_2='/home/jaarac/doctorado/workspace/2014/vrl/vrl/vrl/cv'
+let g:netrw_dirhist_3='/home/jaarac/doctorado/workspace/2014/vrl/vrl'
+let g:netrw_dirhist_4='/home/jaarac/doctorado/workspace/2014/vrl/vrl/bin'
